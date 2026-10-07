@@ -1,0 +1,17 @@
+initialdir = /nethome/phussein/brains
+
+executable = /nethome/phussein/brains/brains.sh
+
+output = /scratch/phussein/logs/brains/brains.sh.$(ClusterId).$(Year)_$(Month)_$(Day)_$(SUBMIT_TIME).out
+error  = /scratch/phussein/logs/brains/brains.sh.$(ClusterId).$(Year)_$(Month)_$(Day)_$(SUBMIT_TIME).err
+log    = /scratch/phussein/logs/brains/brains.sh.$(ClusterId).$(Year)_$(Month)_$(Day)_$(SUBMIT_TIME).log
+
+request_GPUs = 1
+request_CPUs = 2
+request_memory = 32G
+
+requirements = (GPUs_Capability >= 9.0) && (GPUs_GlobalMemoryMb > 60000)
+
+getenv = True
+
+queue 1

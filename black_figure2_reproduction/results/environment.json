@@ -1,0 +1,17 @@
+{
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.2.6",
+    "scipy": "1.18.1",
+    "sklearn": "1.9.0",
+    "torch": "2.5.1+cu118",
+    "himalaya": "0.4.11",
+    "matplotlib": "3.11.1",
+    "nilearn": "0.12.1",
+    "nibabel": "5.4.2"
+  },
+  "gpu": "NVIDIA GeForce RTX 2070 SUPER",
+  "vram_mib": 7959,
+  "driver": "470.256.02",
+  "backend": "torch_cuda"
+}

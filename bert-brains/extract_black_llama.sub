@@ -1,0 +1,17 @@
+initialdir = /nethome/phussein/brains/bert-brains
+
+executable = /nethome/phussein/brains/bert-brains/extract_black_llama.sh
+
+output = /scratch/phussein/logs/brains/extract_black_llama.$(ClusterId).out
+error  = /scratch/phussein/logs/brains/extract_black_llama.$(ClusterId).err
+log    = /scratch/phussein/logs/brains/extract_black_llama.$(ClusterId).log
+
+request_GPUs = 1
+request_CPUs = 2
+request_memory = 16G
+
+requirements = (GPUs_Capability >= 8.0) && (GPUs_GlobalMemoryMb > 60000)
+
+getenv = True
+
+queue 1

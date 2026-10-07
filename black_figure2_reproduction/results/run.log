@@ -1,0 +1,23 @@
+Audit: 54 arrays, 0 invalid; ready=True
+Himalaya backend: torch_cuda
+Fitting black ling_features: 45 subjects, 102 parcels
+  Fold 1/3: 5.5s
+  Fold 2/3: 4.3s
+  Fold 3/3: 4.3s
+Fitting black glove: 45 subjects, 102 parcels
+  Fold 1/3: 3.9s
+  Fold 2/3: 3.9s
+  Fold 3/3: 3.9s
+Fitting black zrep_magnitudes: 45 subjects, 102 parcels
+  Fold 1/3: 4.0s
+  Fold 2/3: 4.0s
+  Fold 3/3: 4.0s
+Fitting black full: 45 subjects, 102 parcels
+  Fold 1/3: 3.7s
+  Fold 2/3: 3.6s
+  Fold 3/3: 3.7s
+Fitting black full_z: 45 subjects, 102 parcels
+  Fold 1/3: 3.7s
+  Fold 2/3: 3.7s
+  Fold 3/3: 3.8s
+Saved Figure 2 and numerical results to results

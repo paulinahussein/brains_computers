@@ -1,0 +1,17 @@
+{
+  "tests_passed": 9,
+  "standalone_gpu_run_completed": true,
+  "analyzed_subjects": 45,
+  "input_subjects": 46,
+  "input_arrays": 54,
+  "summary_points": 50,
+  "original_black_correlations_max_absolute_difference": {
+    "ling_features": 0.0,
+    "glove": 0.0,
+    "zrep_magnitudes": 0.0,
+    "full": 0.0,
+    "full_z": 0.0
+  },
+  "median_tolerance_percentage_points": 0.001,
+  "passed": true
+}

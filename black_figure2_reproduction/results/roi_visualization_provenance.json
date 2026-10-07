@@ -1,0 +1,220 @@
+{
+  "atlas": "atlas/Schaefer1000_supplied_grid.nii.gz",
+  "atlas_sha256": "aeaeb3523cd8cb1c1c631682615b22c2478710ea52b21b23b98c66832d7e4db3",
+  "source": "https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal/Parcellations/MNI",
+  "note": "Supplied Schaefer 17-network parcellation, 2.5 mm grid, used for display only; supplied mapping retained.",
+  "rois": [
+    {
+      "label": 10,
+      "name": "HG",
+      "parcel_ids_one_based": [
+        139,
+        140,
+        141,
+        143
+      ],
+      "centroid_mni_mm": [
+        -47.30049261083744,
+        -20.0,
+        5.834975369458128
+      ]
+    },
+    {
+      "label": 1,
+      "name": "PostTemp",
+      "parcel_ids_one_based": [
+        157,
+        183,
+        337,
+        431,
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        489,
+        490,
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500
+      ],
+      "centroid_mni_mm": [
+        -56.443003144654085,
+        -47.006682389937104,
+        8.555817610062894
+      ]
+    },
+    {
+      "label": 2,
+      "name": "AntTemp",
+      "parcel_ids_one_based": [
+        426,
+        427,
+        429,
+        432,
+        485,
+        486,
+        487
+      ],
+      "centroid_mni_mm": [
+        -54.388513513513516,
+        -3.722972972972973,
+        -15.672297297297296
+      ]
+    },
+    {
+      "label": 3,
+      "name": "AngG",
+      "parcel_ids_one_based": [
+        158,
+        159,
+        378,
+        379,
+        380,
+        468
+      ],
+      "centroid_mni_mm": [
+        -46.1021021021021,
+        -68.16816816816817,
+        24.472972972972972
+      ]
+    },
+    {
+      "label": 4,
+      "name": "IFG",
+      "parcel_ids_one_based": [
+        318,
+        328,
+        330,
+        467
+      ],
+      "centroid_mni_mm": [
+        -50.17913832199547,
+        21.41156462585034,
+        16.001133786848072
+      ]
+    },
+    {
+      "label": 6,
+      "name": "IFGorb",
+      "parcel_ids_one_based": [
+        462,
+        464,
+        465
+      ],
+      "centroid_mni_mm": [
+        -47.076298701298704,
+        28.944805194805195,
+        -3.8814935064935066
+      ]
+    },
+    {
+      "label": 5,
+      "name": "MFG",
+      "parcel_ids_one_based": [
+        202,
+        204,
+        457
+      ],
+      "centroid_mni_mm": [
+        -41.416666666666664,
+        1.6166666666666667,
+        50.233333333333334
+      ]
+    },
+    {
+      "label": 7,
+      "name": "vmPFC",
+      "parcel_ids_one_based": [
+        254,
+        352,
+        353,
+        354,
+        355,
+        356,
+        411,
+        413,
+        415,
+        416,
+        417,
+        418,
+        420
+      ],
+      "centroid_mni_mm": [
+        -21.32648930017351,
+        53.57865818392134,
+        3.029786003470214
+      ]
+    },
+    {
+      "label": 8,
+      "name": "dmPFC",
+      "parcel_ids_one_based": [
+        255,
+        257,
+        385,
+        445,
+        446,
+        447,
+        448,
+        449,
+        450
+      ],
+      "centroid_mni_mm": [
+        -14.345188284518828,
+        52.09205020920502,
+        28.835251046025103
+      ]
+    },
+    {
+      "label": 9,
+      "name": "PMC",
+      "parcel_ids_one_based": [
+        389,
+        390,
+        391,
+        392,
+        393,
+        394,
+        395,
+        396,
+        397,
+        398,
+        399,
+        400,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        471,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477,
+        478
+      ],
+      "centroid_mni_mm": [
+        -6.7894736842105265,
+        -51.208133971291865,
+        26.842105263157894
+      ]
+    }
+  ]
+}

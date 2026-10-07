@@ -1,0 +1,18 @@
+universe = vanilla
+
+executable = /nethome/phussein/brains/black_figure2_reproduction/reproduce_black_figure2.sh
+
+output = /scratch/phussein/logs/brains/black_figure2_reproduction/reproduction.$(ClusterId).out
+error  = /scratch/phussein/logs/brains/black_figure2_reproduction/reproduction.$(ClusterId).err
+log    = /scratch/phussein/logs/brains/black_figure2_reproduction/reproduction.$(ClusterId).log
+
+request_cpus = 4
+request_memory = 32GB
+request_gpus = 1
+request_disk = 10GB
+
+getenv = True
+
+should_transfer_files = NO
+
+queue

@@ -1,0 +1,44 @@
+name: bert-brains
+
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.9
+  - pip
+
+  # Deep Learning
+  - pytorch=1.9
+  - torchvision=0.10
+  - torchaudio=0.9
+
+  # Scientific Python
+  - numpy=1.20
+  - scipy=1.6
+  - pandas=1.3
+  - matplotlib=3.4
+  - seaborn=0.11
+  - scikit-learn
+
+  # Jupyter
+  - jupyterlab=3.1
+  - notebook=6.4
+  - ipykernel
+
+  # NLP
+  - spacy=2.3.5
+
+  - pip:
+      - transformers==4.9.1
+      - tokenizers==0.10.3
+      - huggingface-hub==0.0.12
+      - sentencepiece==0.1.96
+      - sacremoses==0.0.45
+      - regex==2021.8.3
+      - tqdm==4.62.0
+      - click==8.0.1
+      - filelock==3.0.12
+      - joblib==1.0.1
+      - pyyaml==5.4.1

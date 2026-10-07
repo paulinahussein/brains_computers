@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+.log
+slurm_outputs
+data
+.idea
+*.pyc 
+dsq
+*.npy
+
+.DS_Store

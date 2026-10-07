@@ -1,0 +1,18 @@
+initialdir = /nethome/phussein/brains/bert-brains
+
+executable = /nethome/phussein/brains/bert-brains/run_figure3b.sh
+
+output = /scratch/phussein/logs/brains/figure3b.$(ClusterId).out
+error  = /scratch/phussein/logs/brains/figure3b.$(ClusterId).err
+log    = /scratch/phussein/logs/brains/figure3b.$(ClusterId).log
+
+request_GPUs = 1
+request_CPUs = 2
+request_memory = 32G
+request_disk = 20G
+
+requirements = (GPUs_Capability >= 8.0) && (GPUs_GlobalMemoryMb > 60000)
+
+getenv = True
+
+queue 1

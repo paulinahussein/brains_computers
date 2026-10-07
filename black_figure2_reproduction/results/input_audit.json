@@ -1,0 +1,680 @@
+{
+  "files": [
+    {
+      "path": "save_data/X/black_full.npy",
+      "actual_bytes": 164216960,
+      "shape": [
+        514,
+        39936
+      ],
+      "dtype": "float64",
+      "expected_bytes": 164216960,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/X/black_full_z.npy",
+      "actual_bytes": 151584896,
+      "shape": [
+        514,
+        36864
+      ],
+      "dtype": "float64",
+      "expected_bytes": 151584896,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/X/black_glove.npy",
+      "actual_bytes": 4934528,
+      "shape": [
+        514,
+        1200
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4934528,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/X/black_ling_features.npy",
+      "actual_bytes": 641600,
+      "shape": [
+        514,
+        156
+      ],
+      "dtype": "float64",
+      "expected_bytes": 641600,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/X/black_nuisance_number_.npy",
+      "actual_bytes": 33024,
+      "shape": [
+        514,
+        8
+      ],
+      "dtype": "float64",
+      "expected_bytes": 33024,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/X/black_nuisance_phonemes_.npy",
+      "actual_bytes": 658048,
+      "shape": [
+        514,
+        160
+      ],
+      "dtype": "float64",
+      "expected_bytes": 658048,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/X/black_nuisance_silent_.npy",
+      "actual_bytes": 16576,
+      "shape": [
+        514,
+        4
+      ],
+      "dtype": "float64",
+      "expected_bytes": 16576,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/X/black_zrep_magnitudes.npy",
+      "actual_bytes": 2368640,
+      "shape": [
+        514,
+        576
+      ],
+      "dtype": "float64",
+      "expected_bytes": 2368640,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-127.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-265.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-267.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-272.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-273.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-274.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-275.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-276.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-277.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-279.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-280.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-281.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-282.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-283.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-284.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-285.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-286.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-287.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-288.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-289.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-290.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-291.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-292.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-293.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-294.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-295.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-296.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-297.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-298.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-299.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-300.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-301.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-302.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-303.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-304.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-305.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-306.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-307.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-308.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-309.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-310.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-311.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-312.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-313.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-314.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    },
+    {
+      "path": "save_data/Y/black_sub-315.npy",
+      "actual_bytes": 4112128,
+      "shape": [
+        514,
+        1000
+      ],
+      "dtype": "float64",
+      "expected_bytes": 4112128,
+      "fortran_order": true,
+      "valid": true
+    }
+  ],
+  "invalid_files": 0,
+  "issues": [],
+  "roi_counts": {
+    "0": 801,
+    "1": 23,
+    "2": 7,
+    "3": 6,
+    "4": 4,
+    "5": 3,
+    "6": 3,
+    "7": 13,
+    "8": 9,
+    "9": 30,
+    "10": 4,
+    "11": 3,
+    "12": 23,
+    "13": 11,
+    "14": 4,
+    "15": 3,
+    "16": 3,
+    "17": 3,
+    "18": 15,
+    "19": 10,
+    "20": 16,
+    "21": 4,
+    "22": 2
+  },
+  "ready": true
+}

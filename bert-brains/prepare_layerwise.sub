@@ -1,0 +1,15 @@
+initialdir = /nethome/phussein/brains/bert-brains
+
+executable = /nethome/phussein/brains/bert-brains/prepare_layerwise.sh
+
+output = /scratch/phussein/logs/brains/prepare_layerwise.$(ClusterId).out
+error  = /scratch/phussein/logs/brains/prepare_layerwise.$(ClusterId).err
+log    = /scratch/phussein/logs/brains/prepare_layerwise.$(ClusterId).log
+
+request_cpus = 2
+request_memory = 32G
+request_disk = 10G
+
+getenv = True
+
+queue 1

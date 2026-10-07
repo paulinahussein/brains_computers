@@ -1,0 +1,8 @@
+himalaya==0.4.11
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+matplotlib>=3.8
+nibabel==5.4.2
+nilearn==0.12.1
+# Install a compatible CUDA-enabled torch build separately for --backend torch_cuda.
